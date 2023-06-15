@@ -1,0 +1,164 @@
+{
+    "supermercado": [
+      {
+        "nombre": "Mercadona",
+        "dirección": "Calle de la Estación, 10",
+        "geolocalización": "41.655984, -0.885231",
+        "secciones": [
+          {
+            "nombreSeccion": "Frutería",
+            "productos": [
+              {
+                "nombreProducto": "Manzanas",
+                "enOferta": true,
+                "caducidad": "2023-06-30",
+                "peso": "kg",
+                "unidades": 5,
+                "precio": 2.5,
+                "adquirido": "no"
+              },
+              {
+                "nombreProducto": "Naranjas",
+                "enOferta": false,
+                "caducidad": "2023-07-05",
+                "peso": "kg",
+                "unidades": 3,
+                "precio": 1.8,
+                "adquirido": "no"
+              }
+            ]
+          },
+          {
+            "nombreSeccion": "Carnicería",
+            "productos": [
+              {
+                "nombreProducto": "Filete de ternera",
+                "enOferta": true,
+                "caducidad": "2023-06-28",
+                "peso": "kg",
+                "unidades": 2,
+                "precio": 12.5,
+                "adquirido": "no"
+              },
+              {
+                "nombreProducto": "Pollo entero",
+                "enOferta": false,
+                "caducidad": "2023-06-30",
+                "peso": "kg",
+                "unidades": 1,
+                "precio": 8.9,
+                "adquirido": "no"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Carrefour",
+        "dirección": "Avenida de la Independencia, 5",
+        "geolocalización": "41.648713, -0.885600",
+        "secciones": [
+          {
+            "nombreSeccion": "Pescadería",
+            "productos": [
+              {
+                "nombreProducto": "Salmón fresco",
+                "enOferta": true,
+                "caducidad": "2023-06-30",
+                "peso": "kg",
+                "unidades": 2,
+                "precio": 9.99,
+                "adquirido": "no"
+              },
+              {
+                "nombreProducto": "Gambas",
+                "enOferta": false,
+                "caducidad": "2023-07-02",
+                "peso": "kg",
+                "unidades": 250,
+                "precio": 7.5,
+                "adquirido": "no"
+              }
+            ]
+          },
+          {
+            "nombreSeccion": "Panadería",
+            "productos": [
+              {
+                "nombreProducto": "Baguette",
+                "enOferta": true,
+                "caducidad": "2023-06-29",
+                "peso": "unidad",
+                "unidades": 1,
+                "precio": 1.2,
+                "adquirido": "no"
+              },
+              {
+                "nombreProducto": "Croissant",
+                "enOferta": false,
+                "caducidad": "2023-06-30",
+                "peso": "unidad",
+                "unidades": 2,
+                "precio": 0.8,
+                "adquirido": "no"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Eroski",
+        "dirección": "Calle del Comercio, 15",
+        "geolocalización": "41.658972, -0.879791",
+        "secciones": [
+          {
+            "nombreSeccion": "Droguería",
+            "productos": [
+              {
+                "nombreProducto": "Detergente",
+                "enOferta": true,
+                "caducidad": "2023-07-10",
+                "peso": "litro",
+                "unidades": 2,
+                "precio": 3.99,
+                "adquirido": "no"
+              },
+              {
+                "nombreProducto": "Jabón de manos",
+                "enOferta": false,
+                "caducidad": "2023-07-15",
+                "peso": "unidad",
+                "unidades": 1,
+                "precio": 1.5,
+                "adquirido": "no"
+              }
+            ]
+          },
+          {
+            "nombreSeccion": "Charcutería",
+            "productos": [
+              {
+                "nombreProducto": "Jamón serrano",
+                "enOferta": true,
+                "caducidad": "2023-07-05",
+                "peso": "kg",
+                "unidades": 1,
+                "precio": 9.99,
+                "adquirido": "no"
+              },
+              {
+                "nombreProducto": "Chorizo",
+                "enOferta": false,
+                "caducidad": "2023-07-08",
+                "peso": "kg",
+                "unidades": 0.5,
+                "precio": 5.5,
+                "adquirido": "no"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
